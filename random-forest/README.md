@@ -101,12 +101,3 @@ File:
 - F1 Score
 - Confusion Matrix
 
----
-
-## Future Enhancements
-
-- Random Forest Regression
-- Hyperparameter Tuning using GridSearchCV
-- Feature Selection using Feature Importance
-- Cross Validation
-- Real-world Business Datasets
